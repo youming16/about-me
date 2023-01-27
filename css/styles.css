@@ -20,12 +20,13 @@ h1 {
     font-family: 'Gloria Hallelujah', cursive;
     position: abosolute; 
     line-height: 2;
+    font-size: 200px;
 }
 
 h2 {
     color: #674188;
     font-weight: normal;
-    font-size: 30px;
+    font-size: 240%;
 }
 
 h3 {
@@ -38,6 +39,7 @@ p {
     color:#674188;
     font-family: "Trirong", serif;
     line-height: 1.5;
+    font-size: "15px";
 }
 
 
@@ -61,12 +63,13 @@ p {
 }
 
 .inline-text {
-    width: 60%;
+    width: 70%;
     margin: 0px auto 0px auto;
     text-align: center;
     position: relative;
     line-height: 1;
     color: #674188;
+    font-size: larger;
 }
 
 .footer-link {
@@ -129,7 +132,7 @@ p {
 }
 
 #name {
-    font-size:2em;
+    font-size:3em;
 }
 
 
