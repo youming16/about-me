@@ -30,6 +30,8 @@ h2 {
 
 h3 {
     color: #C3ACD0;
+    position: relative;
+    right: 15px;
 }
 
 
@@ -53,10 +55,11 @@ h3 {
 }
 
 .inline-text {
-    width: 40%;
+    width: 60%;
     margin: 0px auto 0px auto;
     text-align: center;
-    line-height: 2;
+    position: relative;
+    line-height: 1;
 }
 
 .footer-link {
@@ -106,13 +109,12 @@ h3 {
         background: none;
     }
 
-    @media (min-width: 768px) {
+    @media (min-width: 300px) {
     .button-64 {
     font-size: 24px;
     min-width: 196px;
     }
 }
-
 
 /************** ID **************/
 #contact_link {
@@ -122,4 +124,5 @@ h3 {
 #name {
     font-size:2em;
 }
+
 
