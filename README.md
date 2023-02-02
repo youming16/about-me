@@ -1,5 +1,6 @@
 # AboutMe
-https://youming16.github.io/AboutMe/
+website: https://youming16.github.io/AboutMe/
+<hr>
 This is the first webpage made by myself!
 Used for learning html and css.
 
