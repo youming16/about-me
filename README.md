@@ -2,7 +2,7 @@
 website: https://youming16.github.io/AboutMe/
 <hr>
 This is the first webpage made by myself!
-Used for learning html and css.
+Used for learning html and css with vanila framework.
 
 # Feature Preview
 ## Heading
